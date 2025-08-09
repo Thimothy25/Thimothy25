@@ -7,24 +7,61 @@
 
 ---
 
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+
 ## 👨‍🎓 About Me
 
 Hi, I'm **Thimothy Reymar**! A Computer Science student at Universitas Klabat, passionate about application development, IoT, and robotics. I love learning new technologies, building creative solutions, and collaborating on various projects.
 
-- 🎓 Studying **Computer Science** at Universitas Klabat
-- 🌱 Learning **Full Stack Development** & **IoT/Robotics**
-- 🔭 Actively working on software & hardware projects
-- 💡 Skills: **Programming, sensor & actuator integration, automation**
+- 🎓 Studying **Computer Science** at Universitas Klabat  
+- 🌱 Learning **Full Stack Development** & **IoT/Robotics**  
+- 🔭 Actively working on software & hardware projects  
+- 💡 Skills: **Programming, sensor & actuator integration, automation**  
 - 🚀 Mission: **Connecting the digital and physical worlds through technology**
 
 ---
 
+## 🤓 Currently Learning
+
+<ul>
+  <li>Mobile app development with React Native</li>
+  <li>Backend integration with Node.js, Express, Firebase, and TypeScript</li>
+  <li>Experimenting with IoT and robotics using Arduino IDE & Fritzing</li>
+</ul>
+
+---
+
+## 🔗 Let's Connect!
+
+<div align="left">
+  <a href="mailto:thimothypongantung27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/thimothy-pongantung-497494288/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/moty_reymr/?hl=af">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://discord.com/users/Motzy">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://www.facebook.com/ThimothyReymarPongantung/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://x.com/@ThimothyPongan1">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+</div>
+
+---
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<div align="left">
 
 ### 💻 Programming & Frameworks
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -41,21 +78,18 @@ Hi, I'm **Thimothy Reymar**! A Computer Science student at Universitas Klabat, p
 </p>
 
 ### 🤖 IoT & Robotics
-
 <p>
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
   <img src="https://img.shields.io/badge/Fritzing-CC342D?style=for-the-badge&logo=fritzing&logoColor=white" alt="Fritzing" />
 </p>
 
 ### 🎮 Game & 3D
-
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
 ### 🧰 Tools
-
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
@@ -64,41 +98,41 @@ Hi, I'm **Thimothy Reymar**! A Computer Science student at Universitas Klabat, p
 
 </div>
 
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📂 My Repository Projects
 
 <div align="center">
   <a href="https://github.com/Thimothy25/Portofolio.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thimothy25&repo=NamaProjectReactNative&theme=tokyonight&hide_border=true" alt="Project React Native">
+  </a>
 </div>
 
-## 🌱 Currently Learning
-
-- Mobile app development with React Native
-- Backend integration with Node.js, Express, Firebase, and TypeScript
-- Experimenting with IoT and robotics using Arduino IDE & Fritzing
+---
 
 ## 📊 My GitHub Journey
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thimothy25&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thimothy25&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="170" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thimothy25&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thimothy25&theme=tokyonight" height="170" alt="Profile Details">
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thimothy25&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats">
+      <br>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thimothy25&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="170" alt="Top Languages">
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thimothy25&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak">
+      <br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thimothy25&theme=tokyonight" height="170" alt="Profile Details">
+    </td>
+  </tr>
+</table>
 
 <br>
 
-## 📫 Let's Connect!
-
-<div align="center">
-  <a href="thimothypongantung27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/thimothy-pongantung-497494288/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-<br>
 <div align="center">
 
 ✨ **Thank you for visiting! Feel free to check out my projects and contact me if you want to collaborate or discuss technology.** ✨

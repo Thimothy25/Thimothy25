@@ -107,9 +107,22 @@ Hi, I'm **Thimothy Reymar**! A Computer Science student at Universitas Klabat, p
 ## 📂 My Repository Projects
 
 <div align="center">
-  <a href="https://github.com/Thimothy25/Portofolio.git">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thimothy25&repo=NamaProjectReactNative&theme=tokyonight&hide_border=true" alt="Project React Native">
+  <!-- Custom Preview for Portofolio Repository -->
+  <a href="https://github.com/Thimothy25/Portofolio">
+    <img src="https://raw.githubusercontent.com/Thimothy25/Portofolio/main/src/assets/img/web.jpg" alt="MotyPorto Preview" width="600">
   </a>
+  <br>
+  <b>MotyPorto - Personal Portfolio Website</b>
+  <br>
+  <i>
+    Welcome to my personal portfolio website! My name is Thimothy Reymar Pongantung, and I'm a Computer Science student at Universitas Klabat, in the Faculty of Computer and Informatics. This portfolio showcases my journey, projects, and skills as I progress in the field of technology.
+  </i>
+  <br>
+  <b>Built with:</b> React, React-Bootstrap, Animate.css
+  <br>
+  <a href="https://portofolio-khaki-theta.vercel.app/">🌐 Live Preview</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/Thimothy25/Portofolio">🔗 View Repository</a>
 </div>
 
 ---

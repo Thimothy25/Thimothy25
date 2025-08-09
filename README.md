@@ -8,6 +8,7 @@
 ---
 
 ## 👨‍🎓 About Me
+
 Hi, I'm **Thimothy Reymar**! A Computer Science student at Universitas Klabat, passionate about application development, IoT, and robotics. I love learning new technologies, building creative solutions, and collaborating on various projects.
 
 - 🎓 Studying **Computer Science** at Universitas Klabat
@@ -17,6 +18,7 @@ Hi, I'm **Thimothy Reymar**! A Computer Science student at Universitas Klabat, p
 - 🚀 Mission: **Connecting the digital and physical worlds through technology**
 
 ---
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -102,10 +104,10 @@ Hi, I'm **Thimothy Reymar**! A Computer Science student at Universitas Klabat, p
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="mailto:thimothy25@email.com">
+  <a href="mailto:thimothypongantung27@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/thimothy25">
+  <a href="https://www.linkedin.com/in/thimothy-pongantung-497494288/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>

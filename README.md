@@ -104,7 +104,7 @@ Hi, I'm **Thimothy Reymar**! A Computer Science student at Universitas Klabat, p
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="mailto:thimothypongantung27@gmail.com">
+  <a href="thimothypongantung27@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/thimothy-pongantung-497494288/">

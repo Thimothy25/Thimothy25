@@ -98,7 +98,7 @@ Hi, I'm **Thimothy Reymar**! A Computer Science student at Universitas Klabat, p
 
 </div>
 
-    </td>
+  
   </tr>
 </table>
 

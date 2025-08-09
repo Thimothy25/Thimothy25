@@ -67,21 +67,8 @@ Hi, I'm **Thimothy Reymar**! A Computer Science student at Universitas Klabat, p
 ## 📂 My Repository Projects
 
 <div align="center">
-  <a href="https://github.com/Thimothy25/NamaProjectReactNative">
+  <a href="https://github.com/Thimothy25/Portofolio.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thimothy25&repo=NamaProjectReactNative&theme=tokyonight&hide_border=true" alt="Project React Native">
-  </a>
-  <a href="https://github.com/Thimothy25/NamaProjectUnity">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thimothy25&repo=NamaProjectUnity&theme=tokyonight&hide_border=true" alt="Project Unity">
-  </a>
-  <a href="https://github.com/Thimothy25/NamaProjectPython">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thimothy25&repo=NamaProjectPython&theme=tokyonight&hide_border=true" alt="Project Python">
-  </a>
-  <a href="https://github.com/Thimothy25/NamaProjectBlender">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thimothy25&repo=NamaProjectBlender&theme=tokyonight&hide_border=true" alt="Project Blender">
-  </a>
-  <a href="https://github.com/Thimothy25/NamaProjectIoT">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thimothy25&repo=NamaProjectIoT&theme=tokyonight&hide_border=true" alt="Project IoT & Robotics">
-  </a>
 </div>
 
 ## 🌱 Currently Learning
